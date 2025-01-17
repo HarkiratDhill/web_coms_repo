@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(201, 239, 227);
+}
+h1 {
+    color:brown;
+}
+.important{
+    font-size:large;
+    font-style: oblique;
+}
